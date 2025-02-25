@@ -65,7 +65,7 @@
 .screen_about_me{
     height: 359px;
     width: 1920px;
-    background-color: #EEEFF1;
+    background-color: #f9f9f9;
     font-family: "Roboto", serif;
 }
 
@@ -78,6 +78,7 @@
     text-align: center;
     color: #000000;
     padding-left: 758px;
+    padding-top: 112px;
 
 }
 
